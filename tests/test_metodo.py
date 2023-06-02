@@ -7,6 +7,7 @@ Created on Fri Jun  2 17:38:39 2023
 """
 
 from typer.testing import CliRunner
+
 from metodo import __app_name__, __version__, cli
 
 runner = CliRunner()

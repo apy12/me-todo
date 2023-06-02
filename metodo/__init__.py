@@ -3,6 +3,8 @@
 """
 Created on Fri Jun  2 13:06:08 2023
 
+Top-level package for Me To-Do.
+
 @author: apy12
 """
 
